@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Breakout</string>
+    <string name="restart_btn">Restart</string>
+    <string name="game_over">Game Over</string>
+    <string name="score">Score: </string>
+    <string name="scores">Scores</string>
+    <string name="enter_name">Please enter your name: </string>
+    <string name="total_score">Your total score is: </string>
+    <string name="total_score_desc">(Total score = score x time spent)</string>
+    <string name="time_spent">Time spent: </string>
+    <string name="hint">Your name here</string>
+    <string name="high_scores">High Scores</string>
+</resources>
